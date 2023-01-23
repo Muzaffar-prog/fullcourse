@@ -1,0 +1,2 @@
+# fullcourse
+Dasturlash olami
